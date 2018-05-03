@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="!A&lt;!-- set &quot;to be continue&quot;" value="&lt;!--to be continue--&gt;&#10;&lt;!--TTTTTTTTTTTTTTTTTTTTTTT         BBBBBBBBBBBBBBBBB                   CCCCCCCCCCCCC--&gt;&#10;&lt;!--     --&gt;&#10;&lt;!--T:::::::::::::::::::::T         B::::::BBBBBB:::::B            CC:::::::::::::::C--&gt;&#10;&lt;!--TTTTTT  T:::::T  TTTTTT           B::::B     B:::::B          C:::::C       CCCCCC--&gt;&#10;&lt;!--        T:::::T                   B::::B     B:::::B         C:::::C--&gt;&#10;&lt;!--        T:::::T                   B::::BBBBBB:::::B         C:::::C--&gt;&#10;&lt;!--        T:::::T                   B:::::::::::::BB          C:::::C--&gt;&#10;&lt;!--        T:::::T                   B::::BBBBBB:::::B         C:::::C--&gt;&#10;&lt;!--        T:::::T                   B::::B     B:::::B        C:::::C--&gt;&#10;&lt;!--        T:::::T                   B::::B     B:::::B        C:::::C--&gt;&#10;&lt;!--        T:::::T                   B::::B     B:::::B         C:::::C       CCCCCC--&gt;&#10;&lt;!--      TT:::::::TT               BB:::::BBBBBB::::::B          C:::::CCCCCCCC::::C--&gt;&#10;&lt;!--      T:::::::::T               B:::::::::::::::::B            CC:::::::::::::::C--&gt;&#10;&lt;!--      T:::::::::T               B::::::::::::::::B               CCC::::::::::::C--&gt;&#10;&lt;!--      TTTTTTTTTTT               BBBBBBBBBBBBBBBBB                   CCCCCCCCCCCCC--&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

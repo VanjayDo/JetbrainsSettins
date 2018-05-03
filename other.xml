@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Jay's-Software/npm/node.exe">
+      <version-cache last-modified="0" />
+      <npm-package value="C:/Jay's-Software/npm/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="C:/Jay's-Software/nodejs/node.exe">
+      <version-cache version="7.8.0" last-modified="1512824654475" />
+      <npm-package value="C:/Jay's-Software/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\jay\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

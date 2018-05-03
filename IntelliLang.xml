@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>struts</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("struts")).withNamespace(string().equalTo("http://struts.apache.org/dtds/struts-2.3.dtd"))]]></place>
+    </injection>
+  </component>
+</application>

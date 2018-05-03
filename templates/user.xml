@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="user" value="/*this is just a test*/" description="this is a test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

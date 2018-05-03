@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="A/*  set &quot;to be continue&quot;" value="/** to be continue&#10; * TTTTTTTTTTTTTTTTTTTTTTT         BBBBBBBBBBBBBBBBB                   CCCCCCCCCCCCC&#10; *&#10; * T:::::::::::::::::::::T         B::::::BBBBBB:::::B            CC:::::::::::::::C&#10; * TTTTTT  T:::::T  TTTTTT           B::::B     B:::::B          C:::::C       CCCCCC&#10; *         T:::::T                   B::::B     B:::::B         C:::::C&#10; *         T:::::T                   B::::BBBBBB:::::B         C:::::C&#10; *         T:::::T                   B:::::::::::::BB          C:::::C&#10; *         T:::::T                   B::::BBBBBB:::::B         C:::::C&#10; *         T:::::T                   B::::B     B:::::B        C:::::C&#10; *         T:::::T                   B::::B     B:::::B        C:::::C&#10; *         T:::::T                   B::::B     B:::::B         C:::::C       CCCCCC&#10; *       TT:::::::TT               BB:::::BBBBBB::::::B          C:::::CCCCCCCC::::C&#10; *       T:::::::::T               B:::::::::::::::::B            CC:::::::::::::::C&#10; *       T:::::::::T               B::::::::::::::::B               CCC::::::::::::C&#10; *       TTTTTTTTTTT               BBBBBBBBBBBBBBBBB                   CCCCCCCCCCCCC&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
