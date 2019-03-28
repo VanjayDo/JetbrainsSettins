@@ -1,5 +1,8 @@
 <application>
   <component name="DatabaseSettings" version="4">
+    <option name="maxLobLength" value="2048000" />
+    <option name="limit-page-size" value="false" />
+    <option name="lob-length" value="2048000" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
