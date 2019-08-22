@@ -44,6 +44,7 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
+  <action id="JupyterRunCellSelectBelowAction" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab">

@@ -3,6 +3,11 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bz2" type="Native" />
+      <mapping pattern="checkpoint" type="PLAIN_TEXT" />
+      <mapping pattern="maskable" type="PLAIN_TEXT" />
+      <mapping pattern="operations" type="PLAIN_TEXT" />
+      <mapping pattern="trainable" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
