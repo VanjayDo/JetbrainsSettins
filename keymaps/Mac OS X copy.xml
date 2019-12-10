@@ -3,15 +3,25 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="CheckinProject" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta alt c" />
@@ -44,6 +54,7 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="JupyterRunCellSelectBelowAction" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -62,5 +73,6 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SurroundWith" />
   <action id="tasks.close" />
 </keymap>
