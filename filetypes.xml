@@ -10,6 +10,7 @@
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="part_of_train_set" type="PLAIN_TEXT" />
       <mapping pattern="maskable" type="PLAIN_TEXT" />
+      <mapping pattern="to_run_mongodb_in_docker" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="trainable" type="PLAIN_TEXT" />
       <mapping pattern="use_ne_module.py" type="PLAIN_TEXT" />
