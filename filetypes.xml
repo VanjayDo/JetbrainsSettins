@@ -13,6 +13,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="trainable" type="PLAIN_TEXT" />
       <mapping pattern="use_ne_module.py" type="PLAIN_TEXT" />
+      <mapping pattern="gathered_label_final" type="PLAIN_TEXT" />
       <mapping pattern="all_dpt_just_after_split" type="PLAIN_TEXT" />
       <mapping ext="fcfg" type="PLAIN_TEXT" />
       <mapping ext="thrift" type="PLAIN_TEXT" />
