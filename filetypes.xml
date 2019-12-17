@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bz2" type="Native" />
+      <mapping pattern="benchmark_on_all" type="PLAIN_TEXT" />
       <mapping pattern="operations" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
-      <mapping pattern="benchmark_on_all" type="PLAIN_TEXT" />
+      <mapping pattern="label_percentile" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="part_of_train_set" type="PLAIN_TEXT" />
       <mapping pattern="maskable" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="trainable" type="PLAIN_TEXT" />
       <mapping pattern="use_ne_module.py" type="PLAIN_TEXT" />
-      <mapping pattern="label_percentile" type="PLAIN_TEXT" />
       <mapping pattern="gathered_label_final" type="PLAIN_TEXT" />
       <mapping pattern="all_dpt_just_after_split" type="PLAIN_TEXT" />
       <mapping ext="fcfg" type="PLAIN_TEXT" />
