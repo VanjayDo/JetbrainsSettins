@@ -3,32 +3,19 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="ActivatePythonConsoleToolWindow">
-    <keyboard-shortcut first-keystroke="meta alt p" />
-  </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta alt t" />
-  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
-  <action id="CheckinProject" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="Console.TableResult.CloneColumn" />
-  <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
-  <action id="CopyElement" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="DatabaseView.CopyTable" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
@@ -55,10 +42,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="GotoTest" />
-  <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
-  <action id="IntroduceParameter" />
   <action id="JupyterRunCellSelectBelowAction" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -67,12 +52,6 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
-  </action>
-  <action id="PublishGroup.Download">
-    <keyboard-shortcut first-keystroke="shift meta alt d" />
-  </action>
-  <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
@@ -83,11 +62,5 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="ShowUmlDiagram" />
-  <action id="SurroundWith" />
-  <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="UML.ShowChanges" />
   <action id="tasks.close" />
 </keymap>
