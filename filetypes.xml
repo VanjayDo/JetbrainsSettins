@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bz2" type="Native" />
       <mapping pattern="benchmark_on_all" type="PLAIN_TEXT" />
       <mapping pattern="operations" type="PLAIN_TEXT" />
@@ -17,22 +16,22 @@
       <mapping pattern="use_ne_module.py" type="PLAIN_TEXT" />
       <mapping pattern="gathered_label_final" type="PLAIN_TEXT" />
       <mapping pattern="all_dpt_just_after_split" type="PLAIN_TEXT" />
-      <mapping ext="fcfg" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="msgpack" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="fcfg" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="read_sgm_files" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="read_sgm_files" type="Python" />
     </extensionMap>
   </component>
 </application>
