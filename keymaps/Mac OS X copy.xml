@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
@@ -44,6 +47,7 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="JupyterRunCellSelectBelowAction" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
