@@ -20,9 +20,11 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
+  <action id="DatabaseView.CopyTable" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
@@ -49,6 +51,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="GotoTest" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
   <action id="IntroduceParameter" />
@@ -70,5 +73,8 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="tasks.close" />
 </keymap>
