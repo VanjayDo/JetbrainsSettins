@@ -5,4 +5,20 @@
       <language minSize="138" name="Python" />
     </Languages>
   </inspection_tool>
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="8">
+          <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
+          <item index="1" class="java.lang.String" itemvalue="geopy" />
+          <item index="2" class="java.lang.String" itemvalue="darkskylib" />
+          <item index="3" class="java.lang.String" itemvalue="configparser" />
+          <item index="4" class="java.lang.String" itemvalue="statsmodels" />
+          <item index="5" class="java.lang.String" itemvalue="pymapd" />
+          <item index="6" class="java.lang.String" itemvalue="dask" />
+          <item index="7" class="java.lang.String" itemvalue="tensorflow-gpu" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
 </profile>
