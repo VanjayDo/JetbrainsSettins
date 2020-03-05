@@ -8,7 +8,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="20">
+        <list size="42">
           <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
           <item index="1" class="java.lang.String" itemvalue="geopy" />
           <item index="2" class="java.lang.String" itemvalue="darkskylib" />
@@ -29,6 +29,28 @@
           <item index="17" class="java.lang.String" itemvalue="scikit-learn" />
           <item index="18" class="java.lang.String" itemvalue="torchtext" />
           <item index="19" class="java.lang.String" itemvalue="dill" />
+          <item index="20" class="java.lang.String" itemvalue="oauth2client" />
+          <item index="21" class="java.lang.String" itemvalue="absl-py" />
+          <item index="22" class="java.lang.String" itemvalue="scipy" />
+          <item index="23" class="java.lang.String" itemvalue="pypng" />
+          <item index="24" class="java.lang.String" itemvalue="opencv-python" />
+          <item index="25" class="java.lang.String" itemvalue="h5py" />
+          <item index="26" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="27" class="java.lang.String" itemvalue="kfac" />
+          <item index="28" class="java.lang.String" itemvalue="tqdm" />
+          <item index="29" class="java.lang.String" itemvalue="bz2file" />
+          <item index="30" class="java.lang.String" itemvalue="gin-config" />
+          <item index="31" class="java.lang.String" itemvalue="tensorflow-probability" />
+          <item index="32" class="java.lang.String" itemvalue="future" />
+          <item index="33" class="java.lang.String" itemvalue="tensorflow-gan" />
+          <item index="34" class="java.lang.String" itemvalue="tensorflow-datasets" />
+          <item index="35" class="java.lang.String" itemvalue="dopamine-rl" />
+          <item index="36" class="java.lang.String" itemvalue="gevent" />
+          <item index="37" class="java.lang.String" itemvalue="google-api-python-client" />
+          <item index="38" class="java.lang.String" itemvalue="gym" />
+          <item index="39" class="java.lang.String" itemvalue="mesh-tensorflow" />
+          <item index="40" class="java.lang.String" itemvalue="flask" />
+          <item index="41" class="java.lang.String" itemvalue="sympy" />
         </list>
       </value>
     </option>
