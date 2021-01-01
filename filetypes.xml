@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="bz2" type="Native" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="operations" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
+      <mapping pattern="operations" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="label_percentile" type="PLAIN_TEXT" />
       <mapping pattern="maskable" type="PLAIN_TEXT" />
