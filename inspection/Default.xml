@@ -8,7 +8,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="47">
+        <list size="48">
           <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
           <item index="1" class="java.lang.String" itemvalue="geopy" />
           <item index="2" class="java.lang.String" itemvalue="darkskylib" />
@@ -56,6 +56,7 @@
           <item index="44" class="java.lang.String" itemvalue="numpy" />
           <item index="45" class="java.lang.String" itemvalue="pypianoroll" />
           <item index="46" class="java.lang.String" itemvalue="keras" />
+          <item index="47" class="java.lang.String" itemvalue="argparse" />
         </list>
       </value>
     </option>
