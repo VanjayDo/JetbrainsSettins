@@ -1,6 +1,7 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="Sarasa Mono SC" />
+    <option name="LINE_SPACING" value="1.0" />
   </component>
 </application>
